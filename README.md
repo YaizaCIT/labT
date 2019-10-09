@@ -3,3 +3,4 @@
 "bla"
 "this is for the dazzling"
 "another edition"
+"Change made as a collaborator"
